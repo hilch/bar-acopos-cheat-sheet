@@ -8,7 +8,7 @@ Feel free to print this sheet on DIN A3. DIN A4 might also work if you've got go
 
 ## Warranty/Disclaimer
 This documentation is **not an official B&amp;R product!**
-For this reason the use is at your own risk and there is NO claim on support or maintenance.
+For this reason the use it at your own risk and there is NO claim on support or maintenance.
 
 ## Development
 I used Open Source Tool ['Inkscape'](https://inkscape.org/en/) to draw.

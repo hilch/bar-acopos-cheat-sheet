@@ -15,7 +15,7 @@ I used Open Source Tool ['Inkscape'](https://inkscape.org/en/) to draw.
 
 ## Preview
 
-(!cheat_sheet)(https://github.com/hilch/bar-acopos-cheat-sheet/blob/master/inkscape/ACOPOS_CTRL.svg)
+[!cheat_sheet](https://github.com/hilch/bar-acopos-cheat-sheet/blob/master/inkscape/ACOPOS_CTRL.svg)
 
 
 

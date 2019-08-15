@@ -12,7 +12,7 @@ For this reason the use is at your own risk and there is NO claim on support or 
 
 ## Development
 I used Open Source Tool ['Inkscape'](https://inkscape.org/en/) to draw.
-Find PDF in releases [link_to_releases](https://github.com/hilch/bar-acopos-cheat-sheet/releases)
+Find PDF in [releases](https://github.com/hilch/bar-acopos-cheat-sheet/releases)
 
 ## Preview
 ![cheat_sheet](https://github.com/hilch/bar-acopos-cheat-sheet/blob/master/inkscape/ACOPOS_CTRL.svg)

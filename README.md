@@ -13,6 +13,10 @@ For this reason the use is at your own risk and there is NO claim on support or 
 ## Development
 I used Open Source Tool ['Inkscape'](https://inkscape.org/en/) to draw.
 
+## Preview
+
+(!cheat_sheet)(https://github.com/hilch/bar-acopos-cheat-sheet/blob/master/inkscape/ACOPOS_CTRL.svg)
+
 
 
 

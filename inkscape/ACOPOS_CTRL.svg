@@ -40,13 +40,13 @@
      inkscape:window-height="980"
      id="namedview4968"
      showgrid="true"
-     inkscape:zoom="1.9678956"
-     inkscape:cx="565.28914"
-     inkscape:cy="884.57572"
+     inkscape:zoom="2.1769558"
+     inkscape:cx="1192.3336"
+     inkscape:cy="127.75034"
      inkscape:window-x="1929"
      inkscape:window-y="32"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-nodes="true"
      inkscape:snap-midpoints="false"
@@ -90,22 +90,22 @@
        x="1041.1774"
        y="848.9649"
        id="text4224"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan4218"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">F</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">F</tspan>
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan4220"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">W</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">W</tspan>
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan4222"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">CTRL</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">CTRL</tspan>
     </text>
     <path
        d="M 646.58762,1130.0344 H 1105.6843 V 1005.2482 H 646.58762 Z"
@@ -127,12 +127,12 @@
        x="1046.2023"
        y="1019.0919"
        id="text4249"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan4247"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">FCTRL</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">FCTRL</tspan>
     </text>
     <path
        inkscape:connector-curvature="0"
@@ -165,23 +165,23 @@
        x="640.86322"
        y="609.44012"
        id="text2379"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan2377"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">SCTRL</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">SCTRL</tspan>
     </text>
     <text
        x="641.84125"
        y="618.68085"
        id="text2560"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="10.0000"
          id="tspan2558"
-         style="font-weight:bold;font-size:8px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">200us</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">200us</tspan>
     </text>
     <path
        d="M 646.64651,823.71245 H 1360.6396 V 639.25355 H 646.64651 Z"
@@ -192,23 +192,23 @@
        x="693.01343"
        y="653.71722"
        id="text2967"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan2965"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">ICTRL</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">ICTRL</tspan>
     </text>
     <text
        x="689.50708"
        y="667.95502"
        id="text3085"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="10.0000"
          id="tspan3083"
-         style="font-weight:bold;font-size:8px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">50-200us</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">50-200us</tspan>
     </text>
     <path
        d="m 1195.9388,596.73061 h 379.9448 v -181.7319 h -379.9448 z"
@@ -219,23 +219,23 @@
        x="1487.1106"
        y="449.68326"
        id="text1882"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="12.0000"
          id="tspan1880"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">TLIM</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">TLIM</tspan>
     </text>
     <text
        x="1486.7429"
        y="463.92105"
        id="text1961"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="10.0000"
          id="tspan1959"
-         style="font-weight:bold;font-size:8px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">200us</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">200us</tspan>
     </text>
     <path
        d="M 10.837607,209.4872 H 601.11819 V 89.772839 H 10.837607 Z"
@@ -278,23 +278,23 @@
        x="326.61575"
        y="241.97734"
        id="text902"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="7.9737"
          id="tspan900"
-         style="font-weight:bold;font-size:8px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">CONTROLLER_MODE =ncFF(33), FFCTRL_MODE = 0 or 2</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">CONTROLLER_MODE =ncFF(33), FFCTRL_MODE = 0 or 2</tspan>
     </text>
     <text
        x="528.54633"
        y="264.55438"
        id="text1023-0"
-       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="12.0318"
          id="tspan1021-2"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">FFCTRL</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">FFCTRL</tspan>
     </text>
     <text
        x="419.8562"
@@ -346,7 +346,7 @@
          style="font-weight:bold;font-size:7.97370005px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-opacity:1">CONTROLLER_MODE =ncFF(33),FFCTRL_MODE = 3</tspan>
     </text>
     <text
-       style="display:inline;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';display:inline"
        x="436.97543"
        y="1093.9932"
        id="text1023-0-5">
@@ -354,7 +354,7 @@
          font-weight="bold"
          font-size="12.0318"
          id="tspan1021-2-2"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">FFCTRL</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">FFCTRL</tspan>
     </text>
     <rect
        style="display:inline;fill:url(#linearGradient8881);fill-opacity:1;stroke:#000000;stroke-width:1.17825007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -364,7 +364,7 @@
        x="1139.6818"
        y="836.1532" />
     <text
-       style="display:inline;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';display:inline"
        x="1302.1996"
        y="854.8938"
        id="text2967-2">
@@ -372,7 +372,7 @@
          font-weight="bold"
          font-size="12.0000"
          id="tspan2965-4"
-         style="font-weight:bold;font-size:10.66666667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-style:normal;font-stretch:normal;font-variant:normal;">INVERTER</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">INVERTER</tspan>
     </text>
     <text
        x="1311.1915"
@@ -389,12 +389,12 @@
        x="1317.4426"
        y="140.84825"
        id="text1961-5"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-size:8px;">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">
       <tspan
          font-weight="bold"
          font-size="10.0000"
          id="tspan1959-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1;">400us</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke-opacity:1">400us</tspan>
     </text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.9737429"
@@ -11850,20 +11850,7 @@
            id="tspan24637"
            sodipodi:role="line">I</tspan></text>
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot23542"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47911882px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.6463144,0,0,1.6463144,-643.47448,-655.59067)"><flowRegion
-         id="flowRegion23544"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47911882px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
-           id="rect23546"
-           width="300"
-           height="50"
-           x="1100"
-           y="1090.5511"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47911882px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
-         id="flowPara23548">V5 - based on Automation Help 4.6.2.85</flowPara></flowRoot>    <path
+    <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker17574)"
        d="m 871.73206,854.47951 v 31.48554"
        id="path16159"
@@ -15321,33 +15308,7 @@
        id="path43763"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <flowRoot
-       transform="matrix(2.4568811,0,0,2.5571822,-1546.6248,-1676.4837)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95823765px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot45147"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95823765px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="flowRegion45143"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95823765px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           y="1090.5511"
-           x="1100"
-           height="50"
-           width="300"
-           id="rect45141" /></flowRegion><flowPara
-         id="flowPara45145">ACOPOS Cheat Sheet</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.6463144,0,0,1.6463144,-663.749,-636.26968)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47911882px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
-       id="flowRoot45147-9"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47911882px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;fill-opacity:1"
-         id="flowRegion45143-9"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47911882px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;fill-opacity:1"
-           y="1090.5511"
-           x="1100"
-           height="50"
-           width="300"
-           id="rect45141-2" /></flowRegion><flowPara
-         id="flowPara45145-1">https://github.com/hilch/bar-acopos-cheat-sheet</flowPara></flowRoot>    <g
+    <g
        style="display:inline"
        id="Layer1071-5"
        transform="translate(206.60045,9.5628309)">
@@ -22361,6 +22322,36 @@
          id="tspan628"
          style="font-size:5.98019981px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-opacity:1">FFCTRL_INERTIA</tspan>
     </text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.99999809px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1133.2701"
+       y="1120.8395"
+       id="text6910"><tspan
+         sodipodi:role="line"
+         id="tspan6908"
+         x="1133.2701"
+         y="1120.8395">ACOPOS Cheat Sheet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1141.4713"
+       y="1138.5303"
+       id="text6914"><tspan
+         sodipodi:role="line"
+         id="tspan6912"
+         x="1141.4713"
+         y="1138.5303">V5 - based on Automation Help 4.6.2.85</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
+       x="1142.5573"
+       y="1158.5017"
+       id="text6918"><tspan
+         sodipodi:role="line"
+         id="tspan6916"
+         x="1142.5573"
+         y="1158.5017">https://github.com/hilch/bar-acopos-cheat-sheet</tspan></text>
   </g>
   <text
      x="1063.2915"

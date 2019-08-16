@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="980"
      id="namedview4968"
      showgrid="true"
-     inkscape:zoom="3.9357913"
-     inkscape:cx="177.63519"
-     inkscape:cy="906.64372"
+     inkscape:zoom="4.3539117"
+     inkscape:cx="974.50978"
+     inkscape:cy="422.55617"
      inkscape:window-x="59"
      inkscape:window-y="19"
      inkscape:window-maximized="0"
@@ -2632,22 +2632,6 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path22860" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutL"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker21379"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path21377"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="scale(0.8)"
-         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:isstock="true"
@@ -8795,24 +8779,6 @@
          style="font-size:10px;font-family:Arial;fill:#ff0000;fill-opacity:1;stroke-opacity:1">213 (R4)</tspan>
     </text>
     <text
-       x="1019.6147"
-       y="796.67853"
-       id="text2165">
-      <tspan
-         font-size="10.0000"
-         id="tspan2163"
-         style="font-size:10px;font-family:Arial;fill:#ff0000;fill-opacity:1;stroke-opacity:1">58 (R4)</tspan>
-    </text>
-    <text
-       x="1019.2778"
-       y="811.67853"
-       id="text2169">
-      <tspan
-         font-size="10.0000"
-         id="tspan2167"
-         style="font-size:10px;font-family:Arial;fill:#ff0000;fill-opacity:1;stroke-opacity:1">18 (R4)</tspan>
-    </text>
-    <text
        x="706.3869"
        y="762.01019"
        id="text3670">
@@ -14952,62 +14918,6 @@
        id="path20399"
        d="m 996.02555,769.42245 h 6.93005"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20403)" />
-    <g
-       id="Layer1056"
-       transform="matrix(0.75550219,0,0,0.8605966,-160.61884,710.37736)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2065"
-         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
-         d="m 1458.4252,114.6689 h 99.2126 v -11.3386 h -99.2126 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2067"
-         style="fill:none;stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 1458.4252,114.6689 h 99.2126 v -11.3386 h -99.2126 z" />
-    </g>
-    <text
-       id="text2072"
-       y="801.51227"
-       x="949.27795"
-       transform="scale(0.99454582,1.0054841)"
-       style="font-size:9.71926594px;stroke-width:0.80993885">
-      <tspan
-         style="font-size:6.47951078px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:0.80993885;stroke-opacity:1"
-         id="tspan2070"
-         font-size="8.0000">ACOPOS_CURR_MAX</tspan>
-    </text>
-    <g
-       id="Layer1060"
-       transform="matrix(0.75550219,0,0,0.86059666,-160.61884,710.46225)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2105"
-         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round"
-         d="m 1458.4252,103.3303 h 99.2126 V 91.9918 h -99.2126 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2107"
-         style="fill:none;stroke:#000000;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 1458.4252,103.3303 h 99.2126 V 91.9918 h -99.2126 z" />
-    </g>
-    <text
-       id="text2112"
-       y="807.0036"
-       x="933.19281"
-       transform="scale(1.0139411,0.98625059)"
-       style="font-size:9.90875244px;stroke-width:0.82572937">
-      <tspan
-         style="font-size:6.60583496px;font-family:Arial;fill:#000000;fill-opacity:1;stroke-width:0.82572937;stroke-opacity:1"
-         id="tspan2110"
-         font-size="8.0000">MOTOR_CURR_MAX</tspan>
-    </text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21379)"
-       d="m 980.91095,789.50903 v -7.33231"
-       id="path21369"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <path
        d="m 1271.0091,505.10817 h 64.6532 v -9.43978 h -64.6532 z"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
